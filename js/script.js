@@ -3,7 +3,8 @@ const app = Vue.createApp ({
       return {
          product: 'Socks',
          description: 'Warm and bushy socks, ideal for winter',
-         image: '/Intro-to-Vue-3/assets/images/socks_blue.jpg'
+         image: './img/socks_blue.jpg',
+         url: 'https://www.vuemastery.com/'
       };
    }
 });
