@@ -1,0 +1,23 @@
+"Trieda": [
+    "ziak":
+        {"id": 1,
+            {"meno": "Emil", "priezvisko": "Hruby", "vek": 10, "bydlisko": "Stozok"}
+        },
+        {"id": 2,
+            {"meno": "Zdena", "priezvisko": "Tenka", "vek": 11, "bydlisko": "Detva"}
+        },
+        {"id": 3,
+            {"meno": "Petra", "priezvisko": "Bystra", "vek": 10, "bydlisko": "Krivan"}
+        },
+        {"id": 4,
+            {"meno": "Filip", "priezvisko": "Mily", "vek": 10, "bydlisko": "Detva"}
+        },
+        {"id": 5,
+            {"meno": "Jozef", "priezvisko": "Mrkvicka", "vek": 11, "bydlisko": "Stozok"}
+        },
+        {"id": 6,
+            {"meno": "Jan", "priezvisko": "Hrasko", "vek": 10, "bydlisko": "Krivan"}
+        }
+]
+
+// ako by som zapísal "Trieda 5.B" ? //

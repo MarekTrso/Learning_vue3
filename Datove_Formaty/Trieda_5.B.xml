@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Trieda> <!-- ako by som zapísal "Trieda 5.B" ? -->
+    <ziak>
+        <id> 1 </id>
+        <meno> Emil </meno>
+        <priezvisko> Hruby </priezvisko>
+        <vek> 10 </vek>
+        <bydlisko> Stozok </bydlisko>
+    </ziak>
+    <ziak>
+        <id> 2 </id>
+        <meno> Zdena </meno>
+        <priezvisko> Tenka </priezvisko>
+        <vek> 11 </vek>
+        <bydlisko> Detva </bydlisko>
+    </ziak>
+    <ziak>
+        <id> 3 </id>
+        <meno> Petra </meno>
+        <priezvisko> Bystra </priezvisko>
+        <vek> 10 </vek>
+        <bydlisko> Krivan </bydlisko>
+    </ziak>
+    <ziak>
+        <id> 4 </id>
+        <meno> Filip </meno>
+        <priezvisko> Mily </priezvisko>
+        <vek> 10 </vek>
+        <bydlisko> Detva </bydlisko>
+    </ziak>
+    <ziak>
+        <id> 5 </id>
+        <meno> Jozef </meno>
+        <priezvisko> Mrkvicka </priezvisko>
+        <vek> 11 </vek>
+        <bydlisko> Stozok </bydlisko>
+    </ziak>
+    <ziak>
+        <id> 6 </id>
+        <meno> Jan </meno>
+        <priezvisko> Hrasko </priezvisko>
+        <vek> 10 </vek>
+        <bydlisko> Krivan </bydlisko>
+    </ziak>
+</Trieda>

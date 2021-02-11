@@ -1,0 +1,9 @@
+ID,Meno,Priezvisko,Vek,Bydlisko
+1,Emil,Hrubý,10,Stožok
+2,Zdena,Tenká,11,Detva
+3,Petra,Bystrá,10,Kriváň
+4,Filip,Milý,10,Detva
+5,Jozef,Mrkvička,11,Stožok
+6,Ján,Hraško,10,Kriváň
+
+/* ako by som zapísal "Trieda 5.B" ako názov tabuľky? */
